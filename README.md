@@ -1,5 +1,7 @@
 # **Sample Superstore Analysis – Comprehensive Insights**
 
+![Sample Superstore Dashboard Image](https://drive.google.com/file/d/1a8oPWxv5eK0am6ZgI0BTegtWWnO06sVb/view?usp=drive_link)
+![Sample Superstore Dashboard Image](https://drive.google.com/file/d/1nga_1_1yx6qgyV3a3fgJxXBW2LZYWB0D/view?usp=drive_link)
 ---
 
 ## **Project Overview**
