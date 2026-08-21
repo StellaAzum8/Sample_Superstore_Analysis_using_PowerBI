@@ -1,8 +1,10 @@
 # **Sample Superstore Analysis – Comprehensive Insights**
 
-![Sample Superstore Dashboard Image](https://drive.google.com/file/d/1a8oPWxv5eK0am6ZgI0BTegtWWnO06sVb/view?usp=drive_link)
-![Sample Superstore Dashboard Image](https://drive.google.com/file/d/1nga_1_1yx6qgyV3a3fgJxXBW2LZYWB0D/view?usp=drive_link)
----
+Here are the edited links for those two files:
+![Image](https://drive.google.com/uc?export=view&id=1a8oPWxv5eK0am6ZgI0BTegtWWnO06sVb)
+![Image](https://drive.google.com/uc?export=view&id=1nga_1_1yx6qgyV3a3fgJxXBW2LZYWB0D)
+
+——-
 
 ## **Project Overview**
 The Sample Superstore Analysis project provides a detailed overview of sales, profit, customer behavior, and regional performance. Designed as two interlinked dashboards, the analysis offers actionable insights using key performance indicators (KPIs) and visualizations to support decision-making processes.
